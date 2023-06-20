@@ -21,16 +21,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'coursemanagement' );
+define( 'DB_NAME', 'cmanagement' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'cmanagement' );
 
 /** Database password */
-define( 'DB_PASSWORD',  'mind@1234' );
+define( 'DB_PASSWORD',  'ap#FX4vEoQ8XXU9KoRemXB8;qr-$@_H' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '10.8.14.86' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
